@@ -1,1 +1,2 @@
 course%3A%2F%2Fweb%2Ebackend%2F%3Fname%3D%22Inna%20Bohachuk%22%26group%3D%22FEI%2D21s%22%26subgroup%3D%22subgroup%202%22%23innabohachuk
+https://bank.gov.ua/NBU_Exchange/exchange_site?start=20220707&end=20220719&valcode=usd&sort=exchangedate&order=desc
